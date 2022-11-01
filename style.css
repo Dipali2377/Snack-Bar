@@ -17,6 +17,18 @@
   visibility: visible;
   animation: fadein 0.5s, fadeout 0.5s 2.5s;
 }
+.click {
+  border: none;
+
+  color: white;
+  background-color: blueviolet;
+  margin-top: 10px;
+  padding: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-left: 600px;
+  font-weight: bold;
+}
 
 @keyframes fadein {
   from {
